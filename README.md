@@ -1,1 +1,3 @@
 # LAN_CHAT
+
+description currently in development...
