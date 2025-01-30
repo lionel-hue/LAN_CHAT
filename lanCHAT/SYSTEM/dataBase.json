@@ -1,0 +1,24 @@
+[{
+		"settings":	{
+			"user_info":	{
+				"username":	"user",
+				"is_set":	"no"
+			},
+			"app_theme":	{
+				"type(s)":	"Aqua Blue",
+				"type(d)":	"36m"
+			},
+			"language":	{
+				"type":	"en"
+			},
+			"activation":	{
+				"product_key":	"36mESGIS20en",
+				"is_activated":	"false",
+				"startups":	"0",
+				"max_startups":	"20"
+			},
+			"intro_vid":	{
+				"play":	"true"
+			}
+		}
+	}]
