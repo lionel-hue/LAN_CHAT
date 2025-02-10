@@ -10,7 +10,7 @@ A user establishes a server connection and waits... meanwhile the other user als
 
 - `Downlaod zip` and browse through the source code  to inspect and probably tweak the software
   
-- `Use your C compiler to compiler ` to  compile the project. If you have your C compilert installed, then run the '_LAN_CHAT_GCC.bat' cmd exectuable to compile the project. It will be finally available newly compiled in the parent directory.
+- `Use your C compiler to compiler ` to  compile the project. If you have your C compiler installed, navigate through the `Binaries/` then run the `_LAN_CHAT_GCC.bat` cmd exectuable to compile the project. It will be finally available newly compiled in the parent directory.
   
 - Or if you simply want to use the software directly `navigate through the 'lanCHAT'` folder and run APPLICATION.exe 
 
